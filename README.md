@@ -1,6 +1,7 @@
 # Useless-good-thing-gsgacha
 Modify the Gacha record of an animation game that can be played for a boy and a girl \
-
+\
+这是一个装逼用的好东西！ \
 数据库说明：将mysql-dbf文件夹中的数据库文件导入数据库（我懒得写自动生成，有想写的自己写) \
 Database Description: Import the database files in the mysql-dbf folder into the database \
 \
