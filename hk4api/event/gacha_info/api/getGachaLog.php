@@ -8,7 +8,6 @@ $dbname = "";//数据库名字
 $page = $_GET["page"];
 $size = $_GET["size"];
 $end_id = $_GET["end_id"];
-$item_type = $_GET["item_type"];
 $gacha_type = $_GET["gacha_type"];
 $begin_id = $_GET["begin_id"];
 //$authkey = $_GET["authkey"];//使用请求附加的authkey
