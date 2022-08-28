@@ -13,7 +13,7 @@ if ($conn->connect_error) {
 }
 
 // 使用 sql 创建数据表
-$sql = "CREATE TABLE MyGuests (
+$sql = "CREATE TABLE gacha (
 id varchar(255), 
 authkey varchar(255),
 item_type varchar(255),
