@@ -1,6 +1,10 @@
 # Useless-good-thing-gsgacha
 Modify the Gacha record of an animation game that can be played for a boy and a girl \
 \
+For non-developers, please see here: [Click here](https://github.com/slzzInTheForest/Useless-good-thing-gsgacha-primary)\
+不懂开发的萌新看这里：[点击前往](https://github.com/slzzInTheForest/Useless-good-thing-gsgacha-primary)
+
+\
 无特殊需求需要PHP5-7即可运行\
 No special requirements, only need PHP5-7 to run \
 ~~如果需要mongoDB版本的API，则需要PHP8+，并且PHP需安装mongoDB拓展！~~ \
@@ -13,8 +17,8 @@ No special requirements, only need PHP5-7 to run \
 1.Put mysql.php in mysql-conf into your web server and access it. \
 方法二/Option 2: \
 1.将mysql-dbf文件夹中的数据库文件导入数据库 \
-1.Database Description: Import the database files in the mysql-dbf folder into the database \
-
+1.Database Description: Import the database files in the mysql-dbf folder into the database 
+\
 数据库说明(Database Description)【例子(example only in Chinese)】: \
 id = 记录ID不可重复(Record ID is not repeatable)【1】 \
 authkey = 用户标识(User ID)【c9wjf9ihn29b】 \
