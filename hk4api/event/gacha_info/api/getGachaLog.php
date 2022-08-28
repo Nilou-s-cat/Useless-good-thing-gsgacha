@@ -11,8 +11,8 @@ $end_id = $_GET["end_id"];
 $item_type = $_GET["item_type"];
 $gacha_type = $_GET["gacha_type"];
 $begin_id = $_GET["begin_id"];
-//$authkey = $_GET["authkey"];
-$authkey = "cao";
+//$authkey = $_GET["authkey"];//使用请求附加的authkey
+$authkey = "cao"; //自定义authkey，和上面的那个二选一
 
 //page为空
 if ($page == "")
@@ -43,7 +43,7 @@ if (isset($begin_id))
     }
 }
 
-if (isset($gacha_type)&& isset($gacha_type))
+if (isset($gacha_type))
 {
     $con=mysqli_connect($servername, $username, $password, $dbname);
     if (mysqli_connect_errno())
