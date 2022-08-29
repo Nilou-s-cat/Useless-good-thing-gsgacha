@@ -1,4 +1,5 @@
-# Useless-good-thing-gsgacha
+# 当前版本已放弃更新，请前往新版本：[点击前往](https://github.com/slzzInTheForest/Useless-good-thing-gsgacha-primary) \
+# The current version has abandoned the update, please go to the new version：[Click here](https://github.com/slzzInTheForest/Useless-good-thing-gsgacha-primary)\
 Modify the Gacha record of an animation game that can be played for a boy and a girl \
 \
 For non-developers, please see here: [Click here](https://github.com/slzzInTheForest/Useless-good-thing-gsgacha-primary)\
